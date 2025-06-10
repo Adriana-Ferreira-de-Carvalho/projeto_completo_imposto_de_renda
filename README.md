@@ -32,7 +32,6 @@ O arquivo possui **4 planilhas** principais:
   - `001 - Banco do Brasil`  
   - `260 - Nubank`  
   - `341 - Itaú Unibanco`
-- **Bancos**: A planilha se encontra oculta, pois a mesma serve como apoio para a planilha de informes.  
 
 ---
 
